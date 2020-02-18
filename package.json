@@ -1,6 +1,6 @@
 {
   "name": "@norchant/egg-grpc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "grpc plugin for egg",
   "eggPlugin": {
     "name": "grpc"
@@ -12,11 +12,11 @@
     "grpc"
   ],
   "dependencies": {
+    "@grpc/proto-loader": "^0.5.3",
     "debug": "^3.0.1",
     "extend2": "^1.0.0",
     "grpc": "^1.4.1",
-    "traverse": "^0.6.6",
-    "@grpc/proto-loader": "^0.5.3"
+    "traverse": "^0.6.6"
   },
   "devDependencies": {
     "autod": "^2.9.0",
