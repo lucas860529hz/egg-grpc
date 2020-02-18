@@ -1,5 +1,5 @@
 {
-  "name": "egg-grpc",
+  "name": "@norchant/egg-grpc",
   "version": "1.0.3",
   "description": "grpc plugin for egg",
   "eggPlugin": {
@@ -57,6 +57,11 @@
     "url": "https://github.com/eggjs/egg/issues"
   },
   "homepage": "https://github.com/eggjs/egg-grpc#readme",
-  "author": "TZ <atian25@qq.com>",
-  "license": "MIT"
+  "author": "Lucas <lucas860529@outlook.com>",
+  "license": "MIT",
+  "main": ".autod.conf.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
 }
