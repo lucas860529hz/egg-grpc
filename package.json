@@ -1,6 +1,6 @@
 {
   "name": "@norchant/egg-grpc",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "grpc plugin for egg",
   "eggPlugin": {
     "name": "grpc"

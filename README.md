@@ -32,7 +32,7 @@ $ npm i egg-grpc --save
 // {app_root}/config/plugin.js
 exports.grpc = {
   enable: true,
-  package: 'egg-grpc',
+  package: '@norchant/egg-grpc',
 };
 ```
 
